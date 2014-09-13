@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreFork/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="CoreFork/Scenes/Credit.cs" Line="1" Column="1" />
+      <File FileName="CoreFork/Scenes/Party.cs" Line="1" Column="1" />
+      <File FileName="CoreFork/Credits.xml" Line="1" Column="1" />
+      <File FileName="CoreWin/Credits.xml" Line="1" Column="1" />
+      <File FileName="CoreFork/Properties/AssemblyInfo.cs" Line="29" Column="1" />
+      <File FileName="CoreWin/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
